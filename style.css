@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+#container{
+    max-width: 1440px;
+}
+body{
+    width: 100vh;
+    margin: auto;
+    background-image: url(./images/bg-header-desktop.png);
+    background-repeat: no-repeat;
+}
+h1, h2, h3{
+    font-family: 'Bai Jamjuree', sans-serif;
+    color: hsl(210, 10%,33%);
+    text-align: center;
+    margin: 20px;
+}
+p{
+    font-family: 'Bai Jamjuree', sans-serif;
+    color: hsl(201, 11%, 66%);
+    text-align: center;
+    line-height: 28px;
+}
+#logo{
+    display: flex;
+    margin: 75px auto 40px;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button1, .button2{
+    width: 175px;
+    height: 35px;
+    border-radius: 20px;
+    border: none;
+    margin: 40px 5px;
+    color: white;
+    cursor: pointer;
+}
+.button1{
+    background-color: hsl(171, 66%, 44%);
+}
+.button2{
+    background-color: hsl(223, 100%, 69%);
+}
+.flex{
+    display: flex;
+    text-align:
+}
+#computer{
+    width: 60%;
+    margin-left: -50px;
+    margin-top: 50px;
+    float: left;
+    margin-right: 50px;
+}
+.free{
+    clear: both;
+}
+#compText{
+    margin: 100px 60px 60px auto;
+    font-size: smaller;
+}
+h4{
+    font-family: 'Bai Jamjuree', sans-serif;
+    color: hsl(210, 10%,33%);
+    padding-bottom: 8px;
+}
+.p1{
+    text-align: justify;
+    line-height: 20px;
+    font-size: smaller;
+}
+.text1{
+    margin-left: 142px;
+    margin-right: 142px;
+}
+#device{
+    width: 70%;
+    display: flex;
+    margin: auto;
+    margin-top: 50px;
+}
+.box2{
+    margin-top: 100px;
+}
+.box3{
+    display: flex;
+    justify-content: space-around;
+    margin: 50px 8px 90px 8px;
+}
+.box3 div{
+    text-align: center;
+}
+.box3 img{
+    width: auto;
+    height: 50px;
+}
+.box4{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 95px;
+}
+.box4 img{
+    width: auto;
+    height: 25px;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(238, 236, 236);
+}
+#logo1{
+    width: 40px;
+    height: 40px;
+    margin-bottom: 30px;
+    margin-left: 3px;
+    margin-top: 27px;
+}
+#f{
+    margin-left: 1px;
+}
+#p{
+    margin-left: 85px;
+}
+#k{
+    margin: 60px;
+}
+#c{
+    margin-left: 35px;
+}
+a{
+    color: hsl(210, 10%,33%);
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 15px;
+}
+.icons img{
+    margin-top: 38px;
+    margin-left: 20px;
+    width: 15px;
+}
+
+
+
+
+
+
+
+
+
+
